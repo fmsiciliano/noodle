@@ -1,0 +1,15 @@
+{
+    "customers": {
+        "data": [
+            {
+                "id": "12jh3g986lkjdf09128213g",
+                "name": "Customer 01",
+                "birthDate": "1992-02-21T07:10:51Z",
+                "cellphone": "(11) 11111-1111",
+                "email": "customer01@noodle.com",
+                "createdAt": "2021-11-24T16:37:58.979Z",
+                "updatedAt": "2021-11-24T16:37:58.979Z"
+            }
+        ]
+    }
+}

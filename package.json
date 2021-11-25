@@ -1,0 +1,28 @@
+{
+  "name": "noodle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmsiciliano/noodle.git"
+  },
+  "keywords": [],
+  "author": "filipesiciliano <filipe.siciliano@gcom.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fmsiciliano/noodle/issues"
+  },
+  "homepage": "https://github.com/fmsiciliano/noodle#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.2.3",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "uuid": "3.3.3"
+  }
+}
